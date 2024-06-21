@@ -38,3 +38,12 @@
 	- echo "anyword" > test.text
 		- redirects the string into a file
 		- you can print with the command cat
+ 
+  - ### command cp
+	- makes a copy of a file
+	- example: cp test.txt Downloads
+	- command rm
+		- remove the file
+		- example: rm Downloads/test.txt
+	- command mv
+		- example: mv test.txt Downloads
