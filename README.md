@@ -31,4 +31,10 @@
 			- example: command man ls (good for no internet access)
 		- or use command ls  --help (not all the details)
 
-  
+  - ### work with directories
+	- make: command mkdir anyname 
+	- remove: command rmdir anyname
+- ### command echo
+	- echo "anyword" > test.text
+		- redirects the string into a file
+		- you can print with the command cat
