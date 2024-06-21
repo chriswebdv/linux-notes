@@ -15,3 +15,20 @@
 	- first part: user
 	- second part: host name (workstation)
 - pwd = command tells your where you are in the file system
+
+### cd = change directory
+	- cd .. = go backwards all the way to root
+	- How to get to another folder not in your directory?
+		- Example: cd /etc 
+		- Example: ls /etc
+- ctrl - l = clear screen or command clear
+
+### ls = list files
+	- command ls  -la = long all
+		- hidden files start with a dot .
+		- website: exaplainshell.com
+		- or you can use man pages
+			- example: command man ls (good for no internet access)
+		- or use command ls  --help (not all the details)
+
+  
