@@ -47,3 +47,13 @@
 		- example: rm Downloads/test.txt
 	- command mv
 		- example: mv test.txt Downloads
+ 
+  ### command locate
+	- locate test.text
+		- gives you all the files in the system
+		- try, to use command sudo updatedb
+			- to get the update files in the system
+### command passwd
+- passwd
+	- change your password is a good practice
+	- retype
